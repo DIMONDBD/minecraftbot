@@ -7,7 +7,6 @@
   },
   "server": {
     "ip": "DiamondMCBD.play.hosting",
-    "port": 51066,
     "version": "1.20.1",
     "try-creative": false
   },
