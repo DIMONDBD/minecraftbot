@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SenpaiSpider",
+    "username": "XycoXD",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "hi bro ki obostha mairo na amake ami taile marbo",
+        "bro tumi ki amar subscriber?",
+        "Teamup koorba naki?"
       ]
     },
     "chat-log": true,
