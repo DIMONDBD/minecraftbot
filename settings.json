@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "XsychoXD",
+    "username": "ItsEhan",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "hi bro ki obostha mairo na amake ami taile marbo",
-        "bro tumi ki amar subscriber?",
+        "bro tumi ki pvp paro?",
         "Teamup koorba naki?"
       ]
     },
